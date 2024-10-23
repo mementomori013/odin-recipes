@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(245, 207, 239);
+}
+#recipes {
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#recipes h1 {
+    color: white;
+}
+
+#recipes ul {
+    color: white;
+}
+
+
+
+
+
