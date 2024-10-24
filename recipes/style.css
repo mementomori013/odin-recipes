@@ -10,7 +10,8 @@ h1 {
 
 #recipe {
     background-color: rgba(182, 240, 255, 0.8);
-    margin-right: 50%;
+    
+    
    
 }
 
@@ -24,10 +25,16 @@ h1 {
 }
 
 #recipe .recipe-child {
- padding-top: 2%;
- padding-left: 2%;
+ box-sizing: border-box;
+ height: auto;
+ width: auto;
+ padding: 5px;
+ border: 10px solid red ;
+ margin: 15px;
+ margin-right: 50%;
+ 
 }
 
 ul {
-    outline: 2px solid red;
+    
 }
