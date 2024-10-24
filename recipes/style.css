@@ -27,3 +27,7 @@ h1 {
  padding-top: 2%;
  padding-left: 2%;
 }
+
+ul {
+    outline: 2px solid red;
+}
